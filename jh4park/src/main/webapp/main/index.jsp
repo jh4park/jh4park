@@ -15,7 +15,7 @@
 	</tr>
 	<tr>
 		<td>
-			여기는 로그인
+			여기는 로그인 커밋을 해본다
 			<jsp:include page="../select/right.jsp"></jsp:include>
 		</td>
 	</tr>
